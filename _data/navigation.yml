@@ -1,6 +1,8 @@
 - name: Home
-  link: /saadsite
-- name: About
-  link: ./about.html
-- name: Blog
-  link: ./blog.html
+  link: ./index.html
+- name: Projects
+  link: ./projects.html
+- name: Blogs
+  link: ./blogs.html
+- name: Contacts
+  link: ./contacts.html
